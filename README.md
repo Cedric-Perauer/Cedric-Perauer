@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Cedric-Perauer/Cedric-Perauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Cedric's github stats](https://github-readme-stats.vercel.app/api?username=Cedric-Perauer)](https://github.com/Cedric-Perauer/github-readme-stats)
+<img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Cedric-Perauer&count_private=true&show_icons=true"/>
 
 Here are some ideas to get you started:
 
