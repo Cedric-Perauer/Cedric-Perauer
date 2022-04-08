@@ -41,7 +41,6 @@ Plugin 'frazrepo/vim-rainbow'
 Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
 Plugin 'codota/tabnine-vim'
-Plugin 'zxqfl/tabnine-vim'
 Plugin 'thiagoalessio/rainbow_levels.vim'
 Plugin 'preservim/nerdtree'
 " The following are examples of different formats supported.
