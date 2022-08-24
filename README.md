@@ -2,7 +2,4 @@
 
 
 
-<a href="https://github.com/Cedric-Perauer">
-  <img align="center" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cedric-Perauer&langs_count=40&layout=compact&hide=html,javascript,EmberScript,Jupyter Notebook,SCSS&theme=solarized-light &include_all_commits=true" />
-</a>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cedric-Perauer&layout=compact )](https://github.com/anuraghazra/github-readme-stats)
