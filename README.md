@@ -1,3 +1,19 @@
 ### Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cedric-Perauer&layout=compact&theme=buefy&langs_count=6&hide_border=true&hide=jupyter%20notebook" /></a>
+
+
+### Development Tools
+![Static Badge](https://img.shields.io/badge/python-grey?logo=python)
+![Static Badge](https://img.shields.io/badge/pytorch-grey?logo=pytorch)
+![Static Badge](https://img.shields.io/badge/tensorflow-darkred?logo=tensorflow)
+![Static Badge](https://img.shields.io/badge/ROS-blue?logo=ros)
+![Static Badge](https://img.shields.io/badge/opencv-green?logo=opencv)
+![Static Badge](https://img.shields.io/badge/open3d-grey?logo=open3d)
+![Static Badge](https://img.shields.io/badge/pytorch3d-grey?logo=pytorch)
+![Static Badge](https://img.shields.io/badge/-black?logo=c)
+![Static Badge](https://img.shields.io/badge/c%2B%2B-black?logo=c%2B%2B)
+![Static Badge](https://img.shields.io/badge/cmake-blue?logo=cmake&logoColor=rgb)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Cedric-Perauer&limit=5&theme=dark&combine_all_yearly_contributions=true)
