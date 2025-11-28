@@ -13,6 +13,9 @@
 ![Static Badge](https://img.shields.io/badge/-black?logo=c)
 ![Static Badge](https://img.shields.io/badge/c%2B%2B-black?logo=c%2B%2B)
 ![Static Badge](https://img.shields.io/badge/cmake-blue?logo=cmake&logoColor=rgb)
+![Static Badge](https://img.shields.io/badge/%F0%9F%A4%97_Transformers-yellow)
+![Static Badge](https://img.shields.io/badge/%F0%9F%92%A5_Diffusers-grey)
+
 
 
 ### 🔝 Top Contributed Repo
