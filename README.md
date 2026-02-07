@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am [Cedric](https://cedric-perauer.github.io/), I am interested in scene understanding and generation.
+I am [Cedric](https://cedric-perauer.github.io/), I am interested in scene understanding, reconstruction and generation. I enjoy reimplementing research papers and contributing to open source projects. 
 
 ### Development Tools
 ![Static Badge](https://img.shields.io/badge/python-grey?logo=python)
