@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi I'm Cedric 👋
 
-I am [Cedric](https://cedric-perauer.github.io/), I am interested in scene understanding, reconstruction and generation. I enjoy reimplementing research papers and contributing to open source projects. 
+I am interested in scene understanding, reconstruction and generation. I enjoy reimplementing research papers and contributing to open source projects.    
+[![Website](https://img.shields.io/badge/Website-cedric--perauer.github.io-blue?style=flat&logo=googlechrome&logoColor=white)](https://cedric-perauer.github.io/)
 
 ### Development Tools
 ![Static Badge](https://img.shields.io/badge/python-grey?logo=python)
@@ -17,7 +18,3 @@ I am [Cedric](https://cedric-perauer.github.io/), I am interested in scene under
 ![Static Badge](https://img.shields.io/badge/%F0%9F%92%A5_Diffusers-grey)
 
 
-
-### 🔝 Top Contributed Repo
-
-[Top contributed repos](https://github-contributor-stats.vercel.app/api?username=Cedric-Perauer&limit=5&theme=dark&combine_all_yearly_contributions=true)
