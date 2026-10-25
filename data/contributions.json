@@ -1,17 +1,17 @@
 {
   "username": "Cedric-Perauer",
-  "generated_at": "2026-10-24T08:52:27Z",
+  "generated_at": "2026-10-25T09:08:41Z",
   "range": {
-    "start": "2025-10-19",
-    "end": "2026-10-24"
+    "start": "2025-10-26",
+    "end": "2026-10-25"
   },
-  "total_contributions": 1136,
-  "active_days": 268,
-  "avg_per_active_day": 4.2,
+  "total_contributions": 1231,
+  "active_days": 270,
+  "avg_per_active_day": 4.6,
   "current_streak": {
-    "length": 0,
-    "start": null,
-    "end": null
+    "length": 1,
+    "start": "2026-10-24",
+    "end": "2026-10-24"
   },
   "longest_streak": {
     "length": 19,
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-10",
-      "total": 11
+      "total": 5
     },
     {
       "month": "2025-11",
@@ -73,38 +73,10 @@
     },
     {
       "month": "2026-10",
-      "total": 72
+      "total": 173
     }
   ],
   "days": [
-    {
-      "date": "2025-10-19",
-      "count": 3
-    },
-    {
-      "date": "2025-10-20",
-      "count": 1
-    },
-    {
-      "date": "2025-10-21",
-      "count": 0
-    },
-    {
-      "date": "2025-10-22",
-      "count": 2
-    },
-    {
-      "date": "2025-10-23",
-      "count": 0
-    },
-    {
-      "date": "2025-10-24",
-      "count": 0
-    },
-    {
-      "date": "2025-10-25",
-      "count": 0
-    },
     {
       "date": "2025-10-26",
       "count": 0
@@ -1527,31 +1499,31 @@
     },
     {
       "date": "2026-10-16",
-      "count": 14
+      "count": 19
     },
     {
       "date": "2026-10-17",
-      "count": 2
+      "count": 15
     },
     {
       "date": "2026-10-18",
-      "count": 4
+      "count": 21
     },
     {
       "date": "2026-10-19",
-      "count": 0
+      "count": 13
     },
     {
       "date": "2026-10-20",
-      "count": 0
+      "count": 31
     },
     {
       "date": "2026-10-21",
-      "count": 0
+      "count": 12
     },
     {
       "date": "2026-10-22",
-      "count": 0
+      "count": 8
     },
     {
       "date": "2026-10-23",
@@ -1559,6 +1531,10 @@
     },
     {
       "date": "2026-10-24",
+      "count": 2
+    },
+    {
+      "date": "2026-10-25",
       "count": 0
     }
   ]
