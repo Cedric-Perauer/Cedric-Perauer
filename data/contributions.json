@@ -1,17 +1,17 @@
 {
   "username": "Cedric-Perauer",
-  "generated_at": "2026-11-21T12:37:53Z",
+  "generated_at": "2026-11-22T12:34:34Z",
   "range": {
-    "start": "2025-11-16",
-    "end": "2026-11-21"
+    "start": "2025-11-23",
+    "end": "2026-11-22"
   },
-  "total_contributions": 2258,
-  "active_days": 285,
-  "avg_per_active_day": 7.9,
+  "total_contributions": 2285,
+  "active_days": 283,
+  "avg_per_active_day": 8.1,
   "current_streak": {
-    "length": 16,
+    "length": 17,
     "start": "2026-11-06",
-    "end": "2026-11-21"
+    "end": "2026-11-22"
   },
   "longest_streak": {
     "length": 25,
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-11",
-      "total": 11
+      "total": 6
     },
     {
       "month": "2025-12",
@@ -73,38 +73,10 @@
     },
     {
       "month": "2026-11",
-      "total": 934
+      "total": 966
     }
   ],
   "days": [
-    {
-      "date": "2025-11-16",
-      "count": 3
-    },
-    {
-      "date": "2025-11-17",
-      "count": 0
-    },
-    {
-      "date": "2025-11-18",
-      "count": 0
-    },
-    {
-      "date": "2025-11-19",
-      "count": 1
-    },
-    {
-      "date": "2025-11-20",
-      "count": 1
-    },
-    {
-      "date": "2025-11-21",
-      "count": 0
-    },
-    {
-      "date": "2025-11-22",
-      "count": 0
-    },
     {
       "date": "2025-11-23",
       "count": 1
@@ -1559,7 +1531,11 @@
     },
     {
       "date": "2026-11-21",
-      "count": 3
+      "count": 26
+    },
+    {
+      "date": "2026-11-22",
+      "count": 9
     }
   ]
 }
