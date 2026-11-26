@@ -1,3 +1,8 @@
+## Terminal configs
+
+- [tmux](tmux.conf) — copy to `~/.tmux.conf`. Press `Ctrl-b` then `h` for columns or `r` for rows.
+- [Kitty](../kitty/kitty.conf) — macOS shortcuts. Copy to `~/.config/kitty/kitty.conf`.
+
 ## Tutorials 
 
 ### Reinstall Nvidia driver in case of an issue
