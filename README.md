@@ -18,14 +18,3 @@ I am interested in scene understanding, reconstruction and generation. I enjoy r
 ![Static Badge](https://img.shields.io/badge/%F0%9F%92%A5_Diffusers-grey)
 
 
-### Terminal configs
-
-- [tmux config](Configs/tmux.conf) — `Ctrl-b h` splits into columns, and `Ctrl-b r` splits into rows.
-- [Kitty config](kitty/kitty.conf) — macOS shortcuts for tabs, splits, and pane navigation.
-
-<br clear="right">
-
-<!-- Animated contribution graph (self-hosted SVG, refreshed daily by .github/workflows/update-profile-art.yml) -->
-<p align="center">
-  <img src="./contrib-heatmap.svg" alt="GitHub contribution graph" width="860" />
-</p>
